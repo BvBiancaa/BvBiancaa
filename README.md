@@ -1,6 +1,7 @@
 [![bmuni's 42 stats](https://badge.mediaplus.ma/greenbinary/bmuni?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/bmuni)
 
 -------------------------------------------------------------
+<details><summary>42 Common Core</summary>
 
 |project| status     |
 |:--------------:|:-----------:|
@@ -36,3 +37,5 @@
 | **EXAM03**|     ✅     |
 | **EXAM04**|     ✅     |
 | **EXAM05**|     ✅     |
+
+  </details>
