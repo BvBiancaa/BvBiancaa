@@ -1,4 +1,5 @@
-[![bmuni's 42 stats](https://badge.mediaplus.ma/greenbinary/bmuni?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/bmuni)
+
+[![bmuni's 42 stats](https://badge.mediaplus.ma/greenbinary/bmuni?1337Badge=off&UM6P=off)](https:profile.intra.42.fr/users/bmuni)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BvBiancaa&langs_count=10&exclude_repo=BvBiancaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 -------------------------------------------------------------
 <details><summary>42 Common Core</summary>
