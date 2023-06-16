@@ -6,7 +6,7 @@
 
 |project| status     |
 |:--------------:|:-----------:|
-| **[LIBFT](https://github.com/bmuni/ft_libft)** | [![bmuni's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2818145)](https://github.com/JaeSeoKim/badge42)    |
+| **[LIBFT](https://github.com/BvBiancaa/Libft)** | [![bmuni's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2818145)](https://github.com/JaeSeoKim/badge42)    |
 | **BORN2BEROOT**|  [![bmuni's 42 born2beroot Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842270)](https://github.com/JaeSeoKim/badge42) |
 | **[FT_PRINTF](https://github.com/BvBiancaa/ft_printf)**|  [![bmuni's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) |
 | **[GET_NEXT_LINE](https://github.com/BvBiancaa/get_next_line)**|  [![bmuni's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842270)](https://github.com/JaeSeoKim/badge42) |
