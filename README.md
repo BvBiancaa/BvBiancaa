@@ -19,8 +19,8 @@
 | **[CUB3D](https://github.com/bmuni/cub3d)**|  [![bmuni's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842270)](https://github.com/JaeSeoKim/badge42) |
 | **[CPP00](https://github.com/BvBiancaa/cpp00)** | [![bmuni's 42 cpp00 Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42)    |
 | **[CPP01](https://github.com/BvBiancaa/cpp01)**|  [![bmuni's 42 cpp01 Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) |
-| **[CPP02](https://github.com/bmuni/cpp02)**|  [![bmuni's 42 cpp02 Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) |
-| **[CPP03](https://github.com/bmuni/cp03)** | [![bmuni's 42 cpp03 Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42)    |
+| **[CPP02](https://github.com/BvBiancaa/cpp02)**|  [![bmuni's 42 cpp02 Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) |
+| **[CPP03](https://github.com/BvBiancaa/cp03)** | [![bmuni's 42 cpp03 Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42)    |
 | **[CPP04](https://github.com/bmuni/cpp04)**|  [![bmuni's 42 cpp04 Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) |
 | **[CPP05](https://github.com/bmuni/cpp05)**|  [![bmuni's 42 cpp05 Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) |
 | **[CPP06](https://github.com/bmuni/cp06)** | [![bmuni's 42 cpp06 Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42)    |
