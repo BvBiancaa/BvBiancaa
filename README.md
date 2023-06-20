@@ -1,13 +1,4 @@
-<img src=“https://media.giphy.com/media/ZSnKUYBE9NGRW/giphy-downsized-large.gif” width="33%" />
-
-<div align=“center”>
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=BvBiancaa&style=flat-square&color=blue" alt="">
-</div>
-
-[![bmuni's 42 stats](https://badge.mediaplus.ma/greenbinary/bmuni?1337Badge=off&UM6P=off)](https:profile.intra.42.fr/users/bmuni)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BvBiancaa&langs_count=10&exclude_repo=BvBiancaa&layout=compact)
+[![bmuni's 42 stats](https://badge.mediaplus.ma/greenbinary/bmuni?1337Badge=off&UM6P=off)](https:profile.intra.42.fr/users/bmuni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BvBiancaa&langs_count=10&exclude_repo=BvBiancaa&layout=compact)
 
 -------------------------------------------------------------
 <details><summary>42 Common Core</summary>
@@ -48,3 +39,12 @@
 | **EXAM05**|     ✅     |
 
   </details>
+
+  <div align=“center”>
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=BvBiancaa&style=flat-square&color=blue" alt="">
+</div>
