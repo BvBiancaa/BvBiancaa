@@ -41,7 +41,7 @@
   </details>
 
   <div align=“center”>
-  <a href="">
+  <a href="https://www.linkedin.com/in/bianca-muni-943b07234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
