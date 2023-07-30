@@ -42,10 +42,13 @@
 
   </details>
 
+  <details><summary>42 Mastery</summary>
+  </details>
+
   ## Skills
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,bash,html,css,vite,vue,ansible,git,github,gitlab,linux,postman,arduino,docker,vim,vscode" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,bash,html,css,vite,vue,ansible,git,github,gitlab,linux,postman,arduino,docker,vim,vscode&perline=20" />
     </a>
   </p> 
 
