@@ -28,6 +28,7 @@
 | **[CPP09](https://github.com/BvBiancaa/cpp09)**|  [![bmuni's 42 cpp09 Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) |
 | **[INCEPTION](https://github.com/BvBiancaa/Inception)** | [![bmuni's 42 inception Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2818145)](https://github.com/JaeSeoKim/badge42)    |
 | **[FT_IRC](https://github.com/BvBiancaa/ft_irc)** | [![bmuni's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2818145)](https://github.com/JaeSeoKim/badge42)    |
+| **[FT_TRASCENDENCE](https://github.com/BvBiancaa/ft_trascendence)**|  [![bmuni's 42 ft_trascendence Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) |
 
 -------------------------------------------------------------
 
