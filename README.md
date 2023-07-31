@@ -7,7 +7,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BvBiancaa&langs_count=10&exclude_repo=BvBiancaa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BvBiancaa&langs_count=15&exclude_repo=BvBiancaa&layout=compact)
 
 
 
