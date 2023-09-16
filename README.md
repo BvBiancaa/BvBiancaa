@@ -1,4 +1,4 @@
- ## Skills
+ # Skills
   <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,html,css,vite,vue,typescript,ansible,git,github,gitlab,linux,postman,arduino,docker,vim,vscode&perline=20" />
@@ -9,7 +9,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BvBiancaa&langs_count=15&exclude_repo=BvBiancaa&layout=compact)
 
-
+<div align=“center”>
+  <a href="https://www.linkedin.com/in/bianca-muni-943b07234/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
 
 
 
@@ -60,11 +64,6 @@
 
 [![bmuni's 42 stats](https://badge.mediaplus.ma/greenbinary/bmuni?1337Badge=off&UM6P=off)](https:profile.intra.42.fr/users/bmuni) 
  
-<div align=“center”>
-  <a href="https://www.linkedin.com/in/bianca-muni-943b07234/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=BvBiancaa&style=flat-square&color=blue" alt="">
 </div>
