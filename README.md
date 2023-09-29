@@ -23,7 +23,7 @@
 |project| status     | language   |
 |:--------------:|:-----------:|:-------:|
 | **[LIBFT](https://github.com/BvBiancaa/Libft)** | [![bmuni's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2818145)](https://github.com/JaeSeoKim/badge42)    | C |
-| **BORN2BEROOT**|  [![bmuni's 42 born2beroot Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842270)](https://github.com/JaeSeoKim/badge42) | - |
+| **BORN2BEROOT**|  [![bmuni's 42 born2beroot Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842270)](https://github.com/JaeSeoKim/badge42) | topic: VM |
 | **[FT_PRINTF](https://github.com/BvBiancaa/ft_printf)**|  [![bmuni's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) | C |
 | **[GET_NEXT_LINE](https://github.com/BvBiancaa/get_next_line)**|  [![bmuni's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842270)](https://github.com/JaeSeoKim/badge42) | C |
 | **[MINITALK](https://github.com/BvBiancaa/minitalk)** | [![bmuni's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2818145)](https://github.com/JaeSeoKim/badge42)    | C |
@@ -31,7 +31,7 @@
 | **[PUSH SWAP](https://github.com/BvBiancaa/push_swap)**|  [![bmuni's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842270)](https://github.com/JaeSeoKim/badge42) | C |
 | **[MINISHELL](https://github.com/BvBiancaa/minishell)** | [![bmuni's 42 minshell Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2818145)](https://github.com/JaeSeoKim/badge42)    | C |
 | **[PHILOSOPHERS](https://github.com/BvBiancaa/philosophers)** | [![bmuni's 42 philosophers Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2818145)](https://github.com/JaeSeoKim/badge42)    | C |
-| **[NETPRACTICE](https://github.com/BvBiancaa/42NetPractice)**|  [![bmuni's 42 netpractice Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) | - |
+| **[NETPRACTICE](https://github.com/BvBiancaa/42NetPractice)**|  [![bmuni's 42 netpractice Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) | topic: networking |
 | **[CUB3D](https://github.com/BvBiancaa/cub3d)**|  [![bmuni's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842270)](https://github.com/JaeSeoKim/badge42) | C |
 | **[CPP00](https://github.com/BvBiancaa/cpp00)** | [![bmuni's 42 cpp00 Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42)    | C++ |
 | **[CPP01](https://github.com/BvBiancaa/cpp01)**|  [![bmuni's 42 cpp01 Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) | C++ |
