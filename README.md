@@ -18,6 +18,7 @@
 
 
 -------------------------------------------------------------
+# Projects
 <details><summary>42 Common Core (completed)</summary>
 
 |project| status     | language   |
@@ -60,6 +61,10 @@
   </details>
 
   <details><summary>42 Mastery</summary>
+
+  |project| status     | language   |
+|:--------------:|:-----------:|:-------:|
+| **[FT_LS](https://github.com/BvBiancaa/ft_ls)** | In progress    | C |
   </details>
 
 [![bmuni's 42 stats](https://badge.mediaplus.ma/greenbinary/bmuni?1337Badge=off&UM6P=off)](https:profile.intra.42.fr/users/bmuni) 
